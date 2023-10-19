@@ -1,2 +1,2 @@
 # Recipes
-It is a beautiful wensite which is created by html and css
+It is a beautiful website which is created by html and css
